@@ -1,0 +1,6 @@
+-- MYSQL Server 
+
+-- Python 
+	--pandas
+	--mysql.connector
+	-- tkinter
